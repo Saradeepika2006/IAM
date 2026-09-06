@@ -1,10 +1,13 @@
-EX - 6 Implementation Of Identity Management (Amazon IAM) For Your Team
+**EX - 6 Implementation Of Identity Management (Amazon IAM) For Your Team**
+```
 NAME: MOPURI SARADEEPIKA
 REG. NO: 212224040201
-Aim
+```
+**Aim**
 To implement identity and access management (IAM) in AWS to securely control access to resources by creating and managing IAM users, groups, roles, and policies for team collaboration.
 
-Algorithm
+**Algorithm**
+```
 Sign in to the AWS Management Console.
 Navigate to the IAM service.
 Create IAM groups with defined policies (e.g., Admin, Developer).
@@ -13,8 +16,9 @@ Create IAM roles if cross-account or service-based access is needed.
 Attach permissions using managed or custom policies.
 Enable MFA (Multi-Factor Authentication) for users.
 Monitor access using IAM Access Analyzer and CloudTrail.
-
-Procedure
+```
+**Procedure**
+```
 1. Access IAM
 Go to AWS Console → Services → IAM.
 2. Create IAM Groups
@@ -38,6 +42,7 @@ Click Manage MFA → Choose Virtual MFA device (e.g., Google Authenticator).
 7. Monitor IAM Usage
 Use IAM Access Analyzer to detect unused permissions.
 Use CloudTrail for auditing user activity.
+```
 Outcome
 1.IAM Group Creation
 <img width="1152" height="465" alt="image" src="https://github.com/user-attachments/assets/f89abb72-d526-458c-a54e-8f98b013263b" />
